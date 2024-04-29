@@ -12,5 +12,6 @@ discribe("test POST/auth/login", async () => {
     password: "4352627",
   };
 
-  const res = await request(app).post();
+  const res = await request(app).post("api/users/login").send(testData);
+  expect(res.statusCode).toBe(200);
 });
