@@ -2,6 +2,8 @@
 
 ## Overview
 
+NODE-REST-API is studes project for put new knolege into the practece
+
 Виконайте форк цього репозиторію для виконання домашніх завдань (2-6)
 Форк створить репозиторій на вашому http://github.com
 
